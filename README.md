@@ -10,10 +10,10 @@
 
 <!-- 🏆 GitHub Trophies -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rishiparashar02&theme=monokai" alt="rishiparashar02" />
-  </a>
-</p>
+<!--   <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
+<!--     <img src="https://github-profile-trophy.vercel.app/?username=rishiparashar02&theme=monokai" alt="rishiparashar02" /> -->
+<!--   </a> -->
+<!-- </p> -->
 
 - 👨‍💻 All of my projects are available at: [rishiparasharportfolio.vercel.app](https://rishiparasharportfolio.vercel.app/)
 - 📫 How to reach me: **rishivparashar@gmail.com**
