@@ -15,7 +15,7 @@
 <!--   </a> -->
 <!-- </p> -->
 
-- 👨‍💻 All of my projects are available at: [rishiparasharportfolio.vercel.app](https://rishiparasharportfolio.vercel.app/)
+- 👨‍💻 Have a look at my portfolio: [rishiparasharportfolio.vercel.app](https://rishiparasharportfolio.vercel.app/)
 - 📫 How to reach me: **rishivparashar@gmail.com**
 
 ---
